@@ -1,5 +1,5 @@
 # Blender MTL File: 'Library.blend'
-# Material Count: 53
+# Material Count: 54
 
 newmtl Back_Side_bot
 Ns 96.078431
@@ -34,6 +34,17 @@ Ni 1.000000
 d 1.000000
 illum 2
 map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
+
+newmtl Front_Side_bot_wall.jpeg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wall.jpeg
 
 newmtl Front_part
 Ns 96.078431
