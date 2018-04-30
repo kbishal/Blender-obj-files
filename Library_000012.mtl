@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Back_side
 Ns 96.078431
@@ -21,8 +21,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Bird
 Ns 96.078431
@@ -33,7 +33,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd /Users/bishal/Desktop/bird.png
+map_Kd bird.png
 
 newmtl Front_Side_bot
 Ns 96.078431
@@ -44,7 +44,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Front_Side_bot_wall.jpeg
 Ns 96.078431
@@ -55,7 +55,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
 
 newmtl Front_part
 Ns 96.078431
@@ -66,8 +66,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Ground_Floor
 Ns 96.078431
@@ -78,7 +78,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 1.000000 0.400000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 1.000000 0.400000 1.000000 wall.jpeg
 
 newmtl Ground_Floor_wall.jpeg
 Ns 96.078431
@@ -89,7 +89,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
 
 newmtl Left_Side
 Ns 96.078431
@@ -100,8 +100,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Left_Side_wall.jpeg
 Ns 96.078431
@@ -112,8 +112,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Left_side_bot
 Ns 96.078431
@@ -124,7 +124,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Left_side_bot_wall.jpeg
 Ns 96.078431
@@ -135,7 +135,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
 
 newmtl Material
 Ns 96.078431
@@ -146,7 +146,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.001
 Ns 96.078431
@@ -157,7 +157,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/grey.png
+map_Kd grey.png
 
 newmtl Material.002
 Ns 96.078431
@@ -168,7 +168,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.003
 Ns 96.078431
@@ -179,7 +179,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.004
 Ns 96.078431
@@ -190,7 +190,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.005
 Ns 96.078431
@@ -201,7 +201,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.006
 Ns 96.078431
@@ -212,7 +212,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Material.007
 Ns 96.078431
@@ -223,7 +223,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl None
 Ns 0
@@ -242,8 +242,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Right_Side_bot
 Ns 96.078431
@@ -254,7 +254,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Right_Side_wall.jpeg
 Ns 96.078431
@@ -265,8 +265,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/wall.jpeg
-map_Ke -s 5.000000 2.000000 1.000000 /Users/bishal/Desktop/wall.jpeg
+map_Kd wall.jpeg
+map_Ke -s 5.000000 2.000000 1.000000 wall.jpeg
 
 newmtl Stairs
 Ns 96.078431
@@ -277,7 +277,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl Treetop_1
 Ns 9.803922
@@ -288,7 +288,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/treeTop.jpg
+map_Kd treeTop.jpg
 
 newmtl Trunk_1
 Ns 9.803922
@@ -299,7 +299,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/trunk.jpg
+map_Kd trunk.jpg
 
 newmtl Window.002
 Ns 96.078431
@@ -310,7 +310,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window.003
 Ns 96.078431
@@ -321,7 +321,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window.004
 Ns 96.078431
@@ -332,7 +332,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window.005
 Ns 96.078431
@@ -343,7 +343,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_10
 Ns 96.078431
@@ -354,7 +354,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_11
 Ns 96.078431
@@ -365,7 +365,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_12
 Ns 96.078431
@@ -376,7 +376,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_14
 Ns 96.078431
@@ -387,7 +387,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_15
 Ns 96.078431
@@ -398,7 +398,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_16
 Ns 96.078431
@@ -409,7 +409,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_6
 Ns 96.078431
@@ -420,7 +420,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_6.001
 Ns 96.078431
@@ -431,7 +431,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_6.001_window.png
 Ns 96.078431
@@ -442,7 +442,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_7
 Ns 96.078431
@@ -453,7 +453,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_8
 Ns 96.078431
@@ -464,7 +464,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl Window_9
 Ns 96.078431
@@ -475,7 +475,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl ground
 Ns 96.078431
@@ -486,7 +486,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/ground.jpg
+map_Kd ground.jpg
 
 newmtl main_building
 Ns 96.078431
@@ -497,7 +497,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl main_building_black-paper.png
 Ns 96.078431
@@ -508,7 +508,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar
 Ns 96.078431
@@ -519,7 +519,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.001
 Ns 96.078431
@@ -530,7 +530,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.002
 Ns 96.078431
@@ -541,7 +541,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.003
 Ns 96.078431
@@ -552,7 +552,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.004
 Ns 96.078431
@@ -563,7 +563,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.005
 Ns 96.078431
@@ -574,7 +574,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.006
 Ns 96.078431
@@ -585,7 +585,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.007
 Ns 96.078431
@@ -596,7 +596,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pillar.008
 Ns 96.078431
@@ -607,7 +607,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pilllar
 Ns 96.078431
@@ -618,7 +618,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl pool
 Ns 96.078431
@@ -629,7 +629,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/black-paper.png
+map_Kd black-paper.png
 
 newmtl skybox
 Ns 96.078431
@@ -651,7 +651,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/water.jpg
+map_Kd water.jpg
 
 newmtl window
 Ns 96.078431
@@ -662,7 +662,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
 
 newmtl window_16
 Ns 96.078431
@@ -673,4 +673,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/bishal/Desktop/window.png
+map_Kd window.png
